@@ -29,3 +29,4 @@ git commit -m "2nd commit" file2
 git status
 git log
 ls -lrt
+git remote add origion https://github.com/nageshpandeti/devops.git
